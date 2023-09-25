@@ -11407,7 +11407,7 @@ p.lead {
   color: var(--bs-primary);
 }
 
-section.resume-section {
+section.section-details {
   display: flex;
   align-items: center;
   padding-left: 1rem;
@@ -11416,17 +11416,17 @@ section.resume-section {
   padding-bottom: 5rem;
   max-width: 75rem;
 }
-section.resume-section .resume-section-content {
+section.section-details .section-details-content {
   width: 100%;
 }
 
 @media (min-width: 768px) {
-  section.resume-section {
+  section.section-details {
     min-height: 100vh;
   }
 }
 @media (min-width: 992px) {
-  section.resume-section {
+  section.section-details {
     padding-left: 3rem;
     padding-right: 3rem;
     padding-top: 5rem;
