@@ -11392,12 +11392,14 @@ p.lead {
   border-radius: 100%;
   font-size: 1.5rem;
   margin-right: 1.5rem;
+  margin-bottom: 0.5rem;
 }
 .social-icons .social-icon:last-child {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: var(--bs-indigo);
+  background-color: white;
+  color: var(--bs-indigo);
 }
 
 .dev-icons {
