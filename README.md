@@ -63,7 +63,7 @@ The screenshot below demonstrates the application's front-end visuals and funcit
 
 If you have any questions, please see my contact information below to reach me for inquiries:
 * **GitHub**: mackenzie-wentworth, at https://github.com/mackenzie-wentworth
-* **Email**: mwentworth28@gmail.com
+* **Email**: mackenzie.wentworth88@gmail.com
 
 ---
 
