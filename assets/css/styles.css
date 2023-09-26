@@ -228,8 +228,9 @@ sup {
 }
 
 a {
-  color: var(--bs-white);
+  color: var(--bs-primary);
   text-decoration: underline;
+  margin-bottom: 1rem;
 }
 a:hover {
   color: var(--bs-primary);
@@ -11326,6 +11327,9 @@ p.lead {
   font-weight: 500;
   font-size: 1.5rem;
 }
+#section-subtitle {
+  color: white;
+}
 
 #sideNav {
   padding-left: 1rem;
@@ -11403,11 +11407,11 @@ p.lead {
 }
 
 .dev-icons {
-  font-size: 3rem;
+  font-size: 1rem;
   color: var(--bs-primary);
 }
 
-section.resume-section {
+section.section-details {
   display: flex;
   align-items: center;
   padding-left: 1rem;
@@ -11416,17 +11420,17 @@ section.resume-section {
   padding-bottom: 5rem;
   max-width: 75rem;
 }
-section.resume-section .resume-section-content {
+section.section-details .section-details-content {
   width: 100%;
 }
 
 @media (min-width: 768px) {
-  section.resume-section {
+  section.section-details {
     min-height: 100vh;
   }
 }
 @media (min-width: 992px) {
-  section.resume-section {
+  section.section-details {
     padding-left: 3rem;
     padding-right: 3rem;
     padding-top: 5rem;
@@ -11435,10 +11439,6 @@ section.resume-section .resume-section-content {
 }
 
 #degree {
-  color: white;
-}
-
-#contact-info {
   color: white;
 }
 
