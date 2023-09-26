@@ -230,6 +230,7 @@ sup {
 a {
   color: var(--bs-primary);
   text-decoration: underline;
+  margin-bottom: 1rem;
 }
 a:hover {
   color: var(--bs-primary);
