@@ -1,6 +1,8 @@
 # MacKenzie Wentworth | Full-Stack JavaScript Web Developer | Professional Portfolio
 
 
+Welcome to my professional portfolio! This portfolio was created using [Start Bootstrap.](https://startbootstrap.com/)
+
 ## Application Links
 
 * GitHub Repository for Application: https://github.com/pexApred/journeyVerse
