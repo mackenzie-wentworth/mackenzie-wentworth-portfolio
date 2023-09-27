@@ -67,12 +67,10 @@ If you have any questions, please see my contact information below to reach me f
 * **GitHub**: mackenzie-wentworth, at https://github.com/mackenzie-wentworth
 * **Email**: mackenzie.wentworth88@gmail.com
 
----
 
 ## License
 This project is covered under the [MIT License](./LICENSE). For more details, please click the license icon below under 'Badges'.
 
----
 
 ## Badges
 
